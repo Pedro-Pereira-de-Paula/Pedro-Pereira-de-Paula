@@ -13,6 +13,4 @@ Sou estudante de front-end. <br>Estou estudando Java Script. <br>Estou a procura
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pedro-Pereira-de-Paula&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
